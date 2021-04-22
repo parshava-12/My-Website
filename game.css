@@ -1,0 +1,49 @@
+body
+{
+	background:red;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player_1_name , #player_2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+	color: yellow;
+}
+#word
+{
+	width: 60%;
+	color: red;
+	background-color: yellow;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: yellow;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#number_1 , #number_2 
+{
+	color: yellow;
+}
+
+#button_send
+{
+	color: red;
+	background-color: yellow;
+}
